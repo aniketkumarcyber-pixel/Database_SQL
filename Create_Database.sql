@@ -1,0 +1,1 @@
+CREATE DATABASE novacart_student_analytics2;
